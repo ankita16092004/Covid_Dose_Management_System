@@ -32,33 +32,33 @@ Ensure you have the following installed on your system:
 
 Setup Instructions
 
-Clone or Download the Project
+1.Clone or Download the Project
 • Clone the repository from GitHub or download the project files.
 
-Configure MySQL Database
+2.Configure MySQL Database
 • Open MySQL and create a new database.
 
 • Import the provided SQL file (if available) to set up the necessary tables.
 
-Run the Application
+3.Run the Application
 • Open the project in NetBeans IDE.
 
 • Build and run the application.
 
 📖 Usage Guide
 
-Launch the Application
+1.Launch the Application
 • Open NetBeans and run the project.
 
-User Authentication
+2.User Authentication
 • Login if you already have an account.
 
 • Sign Up to create a new account.
 
-Manage Patient Dose Details
+3.Manage Patient Dose Details
 • View and track vaccination records.
 
 • Edit and update dose details as needed.
 
-Send Notifications
+4.Send Notifications
 • The system allows users to send alerts when a vaccine dose is due.
